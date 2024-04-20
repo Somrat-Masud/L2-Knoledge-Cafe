@@ -1,0 +1,51 @@
+[{
+        "id": "1",
+        "img": "https://i.ibb.co/YBtsWc2/clay-banks-SBz-Uk-XMWt-TE-unsplash.jpg",
+        "name": "Fantastic Tales",
+        "author": "Jane Smith",
+        "author_img": "https://i.ibb.co/fQ8jvJt/Boys-Wallpaper.jpg",
+        "posted_date": "2024-04-18",
+        "reading_time": "15 ",
+        "hashtags": ["fantasy", "magic", "short-stories"]
+    },
+    {
+        "id": "2",
+        "img": "https://i.ibb.co/YBtsWc2/clay-banks-SBz-Uk-XMWt-TE-unsplash.jpg",
+        "name": "Space Odyssey",
+        "author": "Emily Green",
+        "author_img": "https://i.ibb.co/fQ8jvJt/Boys-Wallpaper.jpg",
+        "posted_date": "2024-04-16",
+        "reading_time": "3 ",
+        "hashtags": ["science-fiction", "space", "exploration"]
+    },
+    {
+        "id": "3",
+        "img": "https://i.ibb.co/YBtsWc2/clay-banks-SBz-Uk-XMWt-TE-unsplash.jpg",
+        "name": "Space Odyssey",
+        "author": "Emiokly Green",
+        "author_img": "https://i.ibb.co/fQ8jvJt/Boys-Wallpaper.jpg",
+        "posted_date": "2024-04-16",
+        "reading_time": "5 ",
+        "hashtags": ["science-fiction", "space", "exploration"]
+    },
+    {
+        "id": "4",
+        "img": "https://i.ibb.co/YBtsWc2/clay-banks-SBz-Uk-XMWt-TE-unsplash.jpg",
+        "name": "Space Odyssey",
+        "author": "sosos Green",
+        "author_img": "https://i.ibb.co/fQ8jvJt/Boys-Wallpaper.jpg",
+        "posted_date": "2024-04-16",
+        "reading_time": "2 ",
+        "hashtags": ["science-fiction", "space", "exploration"]
+    },
+    {
+        "id": "5",
+        "img": "https://i.ibb.co/YBtsWc2/clay-banks-SBz-Uk-XMWt-TE-unsplash.jpg",
+        "name": "Space Odyssey",
+        "author": "pipop Green",
+        "author_img": "https://i.ibb.co/fQ8jvJt/Boys-Wallpaper.jpg",
+        "posted_date": "2024-04-16",
+        "reading_time": "25 ",
+        "hashtags": ["science-fiction", "space", "exploration"]
+    }
+]
